@@ -2,8 +2,8 @@
 
 ## Must Do
 
-- [ ] **Profile photo** — add your photo as `images/BehradRabiei.jpg` and update the `src` in `index.html` (currently using a placeholder)
-- [ ] **CV** — add your CV PDF as `data/BehradRabiei-CV.pdf` so the CV link works
+- [x] **Profile photo** — added as `images/BehradRabiei.jpg`
+- [x] **CV** — added as `data/BehradRabiei-CV.pdf`
 - [ ] **Advisor links** — replace the two `href="#"` placeholders in the bio with the real URLs for Prof. Maani Ghaffari and Prof. Yulun Tian
 - [ ] **Paper links** — replace `href="#"` on each paper title with the actual paper/arXiv/project page URLs
 - [ ] **Paper author full names** — expand abbreviated author names (MK AR, Z Dai, SLSR Pilla, Q Dong) on the LTLCodegen entry
