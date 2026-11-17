@@ -140,3 +140,17 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+/* Paper thumbnails (images and videos). Change the width here to resize them all. */
+.paperthumb {
+  width: 240px;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .paperthumb {
+    width: 140px;
+  }
+}
